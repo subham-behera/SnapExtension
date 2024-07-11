@@ -11,7 +11,6 @@ SnapExtension is a landing page designed to promote and provide information abou
 
 ## Technologies Used
 
-- **Vite**: Next-generation frontend tooling for fast development.
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
