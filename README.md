@@ -47,7 +47,7 @@ As SnapExtension is primarily a landing page, there's no installation required f
 ## How to use Extension
 
 - Unzip the downloaded zip file.
-- Enable Developer option in manage extension option in browser.
+- Enable Developer option in 'manage extension' option in browser.
 - Click on Load unpacked.
 - Select the directory of the unzipped folder.
 - Open new tab and see the option in extension menu.
